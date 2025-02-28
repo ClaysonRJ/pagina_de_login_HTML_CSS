@@ -1,5 +1,5 @@
 body {
-    background: #643D87 url(img/fundo.jpg) no-repeat top center;
+    background: #643D87 url(fundo.jpg) no-repeat top center;
     font-family: "trebuchet MS", Helvetica, sans-serif;
     
 }
@@ -38,12 +38,12 @@ input {
 
 input#email {
 
-    background-image: url(img/icone-usuario.png);
+    background-image: url(icone-usuario.png);
 
 }
 input#senha {
 
-    background-image: url(img/icone-cadeado.png);
+    background-image: url(icone-cadeado.png);
 
 }
 
